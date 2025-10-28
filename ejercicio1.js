@@ -1,1 +1,4 @@
-// "# MI primer proyecto de github" 
+
+let nombre = "Kevin";
+console.log(`hola ${nombre}`);
+
