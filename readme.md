@@ -1,12 +1,9 @@
-# Datos Personales
+"# proyecto punto  3 de git" 
 
-**Nombre:** Kevin Alexis Mesa Delgado  
-**Ficha:** 3223874  
-**Programa:** Desarrollo de Software  
-**Centro:** CTMA 
-**Instructor:** Gustavo  
-**Fecha:** 28 de octubre de 2025  
+# Proyecto Calculadora
 
+## Instrucciones de uso
+Ejecutar el archivo `features/calculator.js` para realizar operaciones básicas de suma.
 
-## Clase - github
-ejercicios de javascripts montados en un repositorio
+## Propósito
+Este proyecto sirve para practicar commits semánticos y estructura de código modular.
