@@ -1,0 +1,16 @@
+#contacto {
+  padding: 2rem;
+  background-color: #b61a1a;
+}
+
+#contacto h2 {
+  color: #333;
+}
+
+#contacto button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
